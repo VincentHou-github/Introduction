@@ -2,17 +2,23 @@
 Name: Vincent
 
 Skill：
-# SQL (10 Yeas).
-# Python (1 Years). 
-# Mobile Game (7 Years).
-# Data Analysis (3 Years).
+-- SQL (10 Yeas).
+-- Python (1 Years). 
+-- Mobile Game (7 Years).
+-- Data Analysis (3 Years).
 
 Interest:
-# Photograph 
-# Climb Mountains
-# Running
-# Swimming
+-- Climb Mountains
+-- Running
+-- Swimming
+-- Photograph 
+
+School:
+-- Sichuan University(Graduated:2010 undergraduate)
+-- Beihang University(Graduated:2017 postgraduate)
 
 Live：
-ShenZhen.GuangDong.China
+Shen Zhen City.Guang Dong Province.China Country
 
+Contact：
+Mail:595823418@qq.com
